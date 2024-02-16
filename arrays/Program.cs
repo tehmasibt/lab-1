@@ -35,4 +35,4 @@ for (int i = 0; i < num.Length; i++)
 Console.WriteLine(count);
 #endregion
 
-int a=10
+int a = 10;
